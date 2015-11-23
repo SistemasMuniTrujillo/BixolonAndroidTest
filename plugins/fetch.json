@@ -1,0 +1,19 @@
+{
+    "cordova-plugin-battery-status": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-battery-status"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "it.alfonsovinti.cordova.plugins.bixolonprint": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/alfonsovinti/cordova-plugin-bixolon-print.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
